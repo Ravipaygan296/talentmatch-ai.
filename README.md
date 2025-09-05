@@ -1,8 +1,3 @@
-Perfect 🙌 — here’s a **recruiter-facing GitHub README draft** for your **TalentMatch AI** project.
-
-You can copy-paste this into your repo and just add screenshots / architecture diagram where noted.
-
----
 
 # 🚀 TalentMatch AI – Recruitment Intelligence Team
 
