@@ -58,6 +58,7 @@ Verdict: Partial Match
 Rationale: Candidate has 4 years experience at EY in data analytics roles.
 Evidence: "Data Analyst – EY (2019–2023), led KPI dashboard project."
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a2848c73-65ee-4842-b86f-a96ab7026d2a" />
 
 **HR Summary (Auto-generated):**
 
