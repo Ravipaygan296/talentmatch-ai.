@@ -12,6 +12,7 @@ numpy
 matplotlib
 seaborn
 spacy
+python-docx
 # Optional if you need PDF text extraction, comment out if not used
 # pdfminer.six
 # For spaCy English model download (not installed via pip):
